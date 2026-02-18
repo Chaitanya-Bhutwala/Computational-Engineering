@@ -9,6 +9,7 @@ The objective is to determine how each mass behaves spatially rather than tempor
 
 Methodology:
 
+
 System equations derived using Newton’s Second Law.
 
 Matrix form representation of multi-DOF system.
@@ -19,13 +20,17 @@ Displacement amplitudes plotted against masses.
 
 Visualization used to interpret relative motion of masses.
 
+
 Results:
+
 
 Distribution of displacement across masses.
 
 Relative stiffness influence on motion.
 
+
 Files Included
+
 
 main.m — main MATLAB script (simulation + plots)
 
@@ -35,7 +40,9 @@ results.png — generated plot
 
 report.pdf — explanation document
 
+
 How to Run:
+
 
 Open MATLAB
 
@@ -43,7 +50,9 @@ Navigate to project folder
 
 Run: main.m
 
+
 Applications
+
 
 Structural dynamics
 
@@ -53,7 +62,9 @@ Mechanical system design
 
 Modal analysis
 
+
 Author
+
 
 Chaitanya Bhutwala
 
