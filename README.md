@@ -36,9 +36,9 @@ main.m — main MATLAB script (simulation + plots)
 
 functions.m — helper functions
 
-results.png — generated plot
+Results.png — generated plot
 
-report.pdf — explanation document
+
 
 
 How to Run:
