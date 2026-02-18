@@ -34,7 +34,7 @@ Files Included
 
 main.m — main MATLAB script (simulation + plots)
 
-functions.m — helper functions
+Formulas.pdf — helper functions
 
 Results.png — generated plot
 
